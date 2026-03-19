@@ -1,0 +1,4 @@
+Please upload your resume PDF file into this folder and name it exactly:
+Sachin_Kumar_Resume.pdf
+
+Once you upload it here, the /resume page on your portfolio will automatically display it and allow users to download it. Whenever you need to update your CV, just replace the file in this folder with the new one using the same name.
