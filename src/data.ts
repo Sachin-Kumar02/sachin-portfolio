@@ -4,7 +4,7 @@ export const portfolioData = {
     role: "Software Developer & ML Enthusiast",
     email: "sachinska02@gmail.com",
     phone: "+91-6009528114",
-    linkedin: "https://linkedin.com/in/sachinkumar", // Placeholder
+    linkedin: "https://www.linkedin.com/in/sachin-kumar-8b71b928a/", // Placeholder
     github: "https://github.com/Sachin-Kumar02",
     summary: "Computer Science undergraduate specializing in software development and machine learning, with hands-on experience in building full-stack applications and intelligent systems. Skilled in Python, Java, and web technologies, with strong foundations in Data Structures, OOP, and database systems. Experienced in developing real-world projects and applying ML techniques to solve practical problems."
   },
