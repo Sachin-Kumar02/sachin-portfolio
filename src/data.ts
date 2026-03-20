@@ -53,8 +53,10 @@ export const portfolioData = {
       type: "Full Stack",
       github: "https://github.com/Sachin-Kumar02/Petrol-Pump-Management",
       details: [
-        "Developed scalable full-stack web application for fuel sales, billing, and inventory management.",
-        "Designed RESTful APIs using Flask and optimized MySQL queries improving performance by 25%.",
+        "What it does: Developed a full-stack web application to manage fuel sales, billing, inventory, and real-time fuel availability efficiently",
+        "Key work: Designed and implemented scalable RESTful APIs, optimized MySQL queries improving performance by ~25%, and ensured real-time transaction handling with data consistency",
+        "Advanced feature: Built a phone number subscription system that allows customers to receive updates on fuel availability, improving user engagement and service reliability",
+        "Impact: Enhanced operational efficiency for fuel management and improved customer satisfaction through real-time communication",
         "Ensured real-time transaction handling and data consistency."
       ],
       tags: ["Flask", "REST APIs", "MySQL", "React", "HTML/CSS"]
