@@ -1,12 +1,14 @@
 export const portfolioData = {
   personal: {
     name: "Sachin Kumar",
-    role: "Software Developer & ML Enthusiast",
+    role: "Software Developer. & ML Enthusiast",
     email: "sachinska02@gmail.com",
     phone: "+91-6009528114",
     linkedin: "https://www.linkedin.com/in/sachin-kumar-8b71b928a/", // Placeholder
     github: "https://github.com/Sachin-Kumar02",
-    summary: "Computer Science undergraduate specializing in software development and machine learning, with hands-on experience in building full-stack applications and intelligent systems. Skilled in Python, Java, and web technologies, with strong foundations in Data Structures, OOP, and database systems. Experienced in developing real-world projects and applying ML techniques to solve practical problems."
+    summary: "I build scalable web applications and intelligent machine learning systems focused on solving real-world problems.
+"As a Computer Science undergraduate at NIT Mizoram, I have experience working with React, Flask, MySQL, and Python to develop full-stack applications and ML-based solutions. My projects include management systems, recommendation engines, and predictive models built using real-world datasets."
+"I am passionate about writing efficient code, improving system performance, and continuously learning to build impactful technology."
   },
   education: [
     {
