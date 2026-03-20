@@ -65,9 +65,11 @@ export const portfolioData = {
       title: "Medical Diagnosis System",
       type: "Machine Learning",
       details: [
-        "Built ML-based system to predict diseases like Diabetes, Heart Disease, and Cancer.",
-        "Integrated TensorFlow and Scikit-learn models for prediction tasks.",
-        "Applied Explainable AI techniques to improve model transparency."
+        "Developed a machine learning-based system to predict diseases such as Diabetes, Heart Disease, and Cancer, helping in early detection and decision support.",
+        "Utilized Python, TensorFlow, and Scikit-learn for model building, along with data preprocessing and feature selection to improve prediction accuracy.",
+        "Trained and evaluated multiple models to ensure reliable performance and optimized results for better classification outcomes.",
+        "Applied Explainable AI (XAI) techniques to improve model transparency and make predictions more interpretable for users.",
+        "Faced challenges in achieving model accuracy and interpretability, which were addressed by refining features and tuning models, resulting in improved prediction performance and usability."
       ],
       tags: ["Python", "TensorFlow", "Scikit-learn", "Explainable AI"]
     },
@@ -76,11 +78,13 @@ export const portfolioData = {
       type: "Machine Learning",
       github: "https://github.com/Sachin-Kumar02/Recommendation-system-using-Machine-Learning",
       details: [
-        "Developed recommendation engine using collaborative and content-based filtering techniques.",
-        "Processed large movie datasets using Pandas and NumPy for feature extraction and similarity computation.",
-        "Implemented cosine similarity and ranking algorithms to generate personalized movie suggestions.",
-        "Built simple user interface to display recommendations based on user preferences."
+        "Developed a machine learning-based recommendation system using a dataset of 10k+ movies to provide personalized suggestions and improve content discovery.",
+        "Utilized Pandas and NumPy for data preprocessing, cleaning, and feature extraction, ensuring efficient handling of large datasets.",
+        "Implemented collaborative filtering and content-based filtering techniques, along with cosine similarity, to generate accurate and relevant movie recommendations.",
+        "Faced performance challenges while processing large-scale similarity computations and optimized the logic to reduce response time and improve efficiency.",
+        "Enhanced user experience by delivering faster, more precise recommendations and improving overall engagement."
       ],
+      
       tags: ["Python", "Pandas", "NumPy", "Machine Learning"]
     }
   ],
