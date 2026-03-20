@@ -55,7 +55,7 @@ export const portfolioData = {
       details: [
         "What it does: Developed a full-stack web application to manage fuel sales, billing, inventory, and real-time fuel availability efficiently",
         "Key work: Designed and implemented scalable RESTful APIs, optimized MySQL queries improving performance by ~25%, and ensured real-time transaction handling with data consistency",
-        "Advanced feature: Built a phone number subscription system that allows customers to receive updates on fuel availability, improving user engagement and service reliability",
+        "Advanced feature: Integrated a notification system (SMS/email-based) to inform users about fuel availability in real time , improving user engagement and service reliability",
         "Impact: Enhanced operational efficiency for fuel management and improved customer satisfaction through real-time communication",
         "Ensured real-time transaction handling and data consistency."
       ],
