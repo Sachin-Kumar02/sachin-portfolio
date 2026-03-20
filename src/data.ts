@@ -6,9 +6,7 @@ export const portfolioData = {
     phone: "+91-6009528114",
     linkedin: "https://www.linkedin.com/in/sachin-kumar-8b71b928a/", // Placeholder
     github: "https://github.com/Sachin-Kumar02",
-    summary: "I build scalable web applications and intelligent machine learning systems focused on solving real-world problems."
-"As a Computer Science undergraduate at NIT Mizoram, I have experience working with React, Flask, MySQL, and Python to develop full-stack applications and ML-based solutions. My projects include management systems, recommendation engines, and predictive models built using real-world datasets."
-"I am passionate about writing efficient code, improving system performance, and continuously learning to build impactful technology.
+    summary: "I build scalable web applications and intelligent machine learning systems focused on solving real-world problems.As a Computer Science undergraduate at NIT Mizoram, I have experience working with React, Flask, MySQL, and Python to develop full-stack applications and ML-based solutions. My projects include management systems, recommendation engines, and predictive models built using real-world datasets.I am passionate about writing efficient code, improving system performance, and continuously learning to build impactful technology."
   },
   education: [
     {
