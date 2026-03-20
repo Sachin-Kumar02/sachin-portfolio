@@ -6,9 +6,9 @@ export const portfolioData = {
     phone: "+91-6009528114",
     linkedin: "https://www.linkedin.com/in/sachin-kumar-8b71b928a/", // Placeholder
     github: "https://github.com/Sachin-Kumar02",
-    summary: "I build scalable web applications and intelligent machine learning systems focused on solving real-world problems.
+    summary: "I build scalable web applications and intelligent machine learning systems focused on solving real-world problems."
 "As a Computer Science undergraduate at NIT Mizoram, I have experience working with React, Flask, MySQL, and Python to develop full-stack applications and ML-based solutions. My projects include management systems, recommendation engines, and predictive models built using real-world datasets."
-"I am passionate about writing efficient code, improving system performance, and continuously learning to build impactful technology."
+"I am passionate about writing efficient code, improving system performance, and continuously learning to build impactful technology.
   },
   education: [
     {
@@ -55,8 +55,8 @@ export const portfolioData = {
       type: "Full Stack",
       github: "https://github.com/Sachin-Kumar02/Petrol-Pump-Management",
       details: [
-        "What it does: Developed a full-stack web application to manage fuel sales, billing, inventory, and real-time fuel availability efficiently",
-        "Key work: Designed and implemented scalable RESTful APIs, optimized MySQL queries improving performance by ~25%, and ensured real-time transaction handling with data consistency",
+        "Developed a full-stack web application to manage fuel sales, billing, inventory, and real-time fuel availability efficiently",
+        "Designed and implemented scalable RESTful APIs, optimized MySQL queries improving performance by ~25%, and ensured real-time transaction handling with data consistency",
         "Advanced feature: Integrated a notification system (SMS/email-based) to inform users about fuel availability in real time , improving user engagement and service reliability",
         "Impact: Enhanced operational efficiency for fuel management and improved customer satisfaction through real-time communication",
         "Ensured real-time transaction handling and data consistency."
